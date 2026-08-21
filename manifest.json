@@ -1,1 +1,16 @@
-
+{
+  "name": "Simulateur de Pièges Numériques",
+  "short_name": "CyberTrap",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#060913",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9437/9437502.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
